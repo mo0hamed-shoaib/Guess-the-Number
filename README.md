@@ -1,1 +1,1 @@
-# Guess-the-Number
+# Guess-the-Secret-Number
